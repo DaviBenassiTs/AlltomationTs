@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": ["ES2022", "DOM"],
+    "strict": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "@pages/*": ["pages/*"],
+      "@components/*": ["components/*"],
+      "@fixtures/*": ["fixtures/*"],
+      "@data/*": ["data/*"],
+      "@utils/*": ["utils/*"],
+      "@helpers/*": ["helpers/*"],
+      "@constants/*": ["constants/*"]
+    }
+  },
+  "include": ["tests/**/*.ts", "pages/**/*.ts", "components/**/*.ts", "fixtures/**/*.ts", "data/**/*.ts", "utils/**/*.ts", "helpers/**/*.ts", "constants/**/*.ts", "playwright.config.ts"],
+  "exclude": ["node_modules", "reports", "screenshots", "videos", "traces"]
+}

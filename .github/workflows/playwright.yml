@@ -1,0 +1,70 @@
+name: Playwright Tests
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  smoke:
+    name: Smoke tests (a cada push/PR)
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Instalar navegadores do Playwright
+        run: npx playwright install --with-deps chromium
+
+      - name: Rodar testes @smoke
+        run: npx playwright test --project=chromium --grep @smoke
+        env:
+          CI: true
+
+      - name: Publicar relatório HTML
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: html-report-smoke
+          path: reports/html-report/
+          retention-days: 14
+
+  regression:
+    name: Regressão completa (cross-browser)
+    needs: smoke
+    if: github.event_name == 'pull_request'
+    timeout-minutes: 30
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Instalar navegadores do Playwright
+        run: npx playwright install --with-deps
+
+      - name: Rodar suíte de regressão em todos os navegadores
+        run: npx playwright test --grep @regression
+        env:
+          CI: true
+
+      - name: Publicar relatório HTML
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: html-report-regression
+          path: reports/html-report/
+          retention-days: 14

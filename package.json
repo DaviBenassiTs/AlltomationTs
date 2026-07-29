@@ -1,0 +1,25 @@
+{
+  "name": "playwright-training-framework",
+  "version": "1.0.0",
+  "description": "Framework profissional de automacao de testes com Playwright + TypeScript + Page Object Model, usado no treinamento de QA Automation.",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:smoke": "playwright test --grep @smoke",
+    "test:regression": "playwright test --grep @regression",
+    "test:critical": "playwright test --grep @critical",
+    "test:chromium": "playwright test --project=chromium",
+    "test:report": "playwright show-report reports/html-report",
+    "codegen": "playwright codegen https://www.saucedemo.com",
+    "trace:show": "playwright show-trace",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^20.14.0",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.5.0"
+  }
+}
