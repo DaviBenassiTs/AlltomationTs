@@ -1,17 +1,15 @@
 # Framework de Automacao — Playwright + TypeScript + POM
 
+> Curso completo, do zero ao framework profissional, ministrado no estilo de um QA Automation Lead.
+> Todo o código mostrado aqui é **real e executável** — ele vive neste mesmo repositório.
+> Rode `npm install && npx playwright install && npm test` na raiz do projeto para ver tudo funcionando
+> contra o [saucedemo.com](https://www.saucedemo.com), aplicação pública mantida para prática de automação.
+
 Projeto real, executavel, que acompanha o treinamento em [`treinamento/`](treinamento/00-indice.md).
 A aplicacao sob teste (UI) e a [saucedemo.com](https://www.saucedemo.com), um site publico mantido
 pela Sauce Labs especificamente para pratica de automacao de testes. Os testes de API
 (`tests/api.spec.ts`) usam a [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com),
 tambem publica e gratuita para prototipagem/treino.
-
-# Treinamento de Automação de Testes — Playwright + TypeScript + POM
-
-> Curso completo, do zero ao framework profissional, ministrado no estilo de um QA Automation Lead.
-> Todo o código mostrado aqui é **real e executável** — ele vive neste mesmo repositório.
-> Rode `npm install && npx playwright install && npm test` na raiz do projeto para ver tudo funcionando
-> contra o [saucedemo.com](https://www.saucedemo.com), aplicação pública mantida para prática de automação.
 
 ## Como usar este material
 
@@ -25,35 +23,35 @@ Não pule capítulos. Cada um assume que você domina o anterior.
 
 | # | Capítulo | Arquivo |
 |---|----------|---------|
-| 1 | Introdução ao QA e à Automação | [01-introducao.md](01-introducao.md) |
-| 2 | Conhecendo o Playwright | [02-conhecendo-playwright.md](02-conhecendo-playwright.md) |
-| 3 | Instalação | [03-instalacao.md](03-instalacao.md) |
-| 4 | Estrutura de um Projeto Profissional | [04-estrutura-projeto.md](04-estrutura-projeto.md) |
-| 5 | Entendendo um Teste | [05-entendendo-um-teste.md](05-entendendo-um-teste.md) |
-| 6 | Localizadores | [06-localizadores.md](06-localizadores.md) |
-| 7 | Assertions | [07-assertions.md](07-assertions.md) |
-| 8 | Page Object Model (POM) | [08-page-object-model.md](08-page-object-model.md) |
-| 9 | Component Object Model | [09-component-object-model.md](09-component-object-model.md) |
-| 10 | Organização do Framework | [10-organizacao-framework.md](10-organizacao-framework.md) |
-| 11 | Fixtures | [11-fixtures.md](11-fixtures.md) |
-| 12 | Hooks | [12-hooks.md](12-hooks.md) |
-| 13 | Captura de Evidências | [13-evidencias.md](13-evidencias.md) |
-| 14 | Playwright Codegen | [14-codegen.md](14-codegen.md) |
-| 15 | Esperas (Waits) | [15-esperas.md](15-esperas.md) |
-| 16 | Trabalhando com APIs | [16-apis.md](16-apis.md) |
-| 17 | Massa de Dados | [17-massa-de-dados.md](17-massa-de-dados.md) |
-| 18 | Variáveis de Ambiente | [18-variaveis-ambiente.md](18-variaveis-ambiente.md) |
-| 19 | Configuração do Playwright | [19-configuracao.md](19-configuracao.md) |
-| 20 | Paralelismo | [20-paralelismo.md](20-paralelismo.md) |
-| 21 | Tags | [21-tags.md](21-tags.md) |
-| 22 | Testes de Regressão | [22-regressao.md](22-regressao.md) |
-| 23 | Integração Contínua (CI/CD) | [23-cicd.md](23-cicd.md) |
-| 24 | Refatoração | [24-refatoracao.md](24-refatoracao.md) |
-| 25 | Boas Práticas | [25-boas-praticas.md](25-boas-praticas.md) |
-| 26 | Erros Mais Comuns | [26-erros-comuns.md](26-erros-comuns.md) |
-| 27 | Exercício Prático (Login) | [27-exercicio-pratico.md](27-exercicio-pratico.md) |
-| 28 | Projeto Final | [28-projeto-final.md](28-projeto-final.md) |
-| 29 | Desafio Final | [29-desafio-final.md](29-desafio-final.md) |
+| 1 | Introdução ao QA e à Automação | [01-introducao.md](/treinamento/01-introducao.md) |
+| 2 | Conhecendo o Playwright | [02-conhecendo-playwright.md](/treinamento/02-conhecendo-playwright.md) |
+| 3 | Instalação | [03-instalacao.md](/treinamento/03-instalacao.md) |
+| 4 | Estrutura de um Projeto Profissional | [04-estrutura-projeto.md](/treinamento/04-estrutura-projeto.md) |
+| 5 | Entendendo um Teste | [05-entendendo-um-teste.md](/treinamento/05-entendendo-um-teste.md) |
+| 6 | Localizadores | [06-localizadores.md](/treinamento/06-localizadores.md) |
+| 7 | Assertions | [07-assertions.md](/treinamento/07-assertions.md) |
+| 8 | Page Object Model (POM) | [08-page-object-model.md](/treinamento/08-page-object-model.md) |
+| 9 | Component Object Model | [09-component-object-model.md](/treinamento/09-component-object-model.md) |
+| 10 | Organização do Framework | [10-organizacao-framework.md](/treinamento/10-organizacao-framework.md) |
+| 11 | Fixtures | [11-fixtures.md](/treinamento/11-fixtures.md) |
+| 12 | Hooks | [12-hooks.md](/treinamento/12-hooks.md) |
+| 13 | Captura de Evidências | [13-evidencias.md](/treinamento/13-evidencias.md) |
+| 14 | Playwright Codegen | [14-codegen.md](/treinamento/14-codegen.md) |
+| 15 | Esperas (Waits) | [15-esperas.md](/treinamento/15-esperas.md) |
+| 16 | Trabalhando com APIs | [16-apis.md](/treinamento/16-apis.md) |
+| 17 | Massa de Dados | [17-massa-de-dados.md](/treinamento/17-massa-de-dados.md) |
+| 18 | Variáveis de Ambiente | [18-variaveis-ambiente.md](/treinamento/18-variaveis-ambiente.md) |
+| 19 | Configuração do Playwright | [19-configuracao.md](/treinamento/19-configuracao.md) |
+| 20 | Paralelismo | [20-paralelismo.md](/treinamento/20-paralelismo.md) |
+| 21 | Tags | [21-tags.md](/treinamento/21-tags.md) |
+| 22 | Testes de Regressão | [22-regressao.md](/treinamento/22-regressao.md) |
+| 23 | Integração Contínua (CI/CD) | [23-cicd.md](/treinamento/23-cicd.md) |
+| 24 | Refatoração | [24-refatoracao.md](/treinamento/24-refatoracao.md) |
+| 25 | Boas Práticas | [25-boas-praticas.md](/treinamento/25-boas-praticas.md) |
+| 26 | Erros Mais Comuns | [26-erros-comuns.md](/treinamento/26-erros-comuns.md) |
+| 27 | Exercício Prático (Login) | [27-exercicio-pratico.md](/treinamento/27-exercicio-pratico.md) |
+| 28 | Projeto Final | [28-projeto-final.md](/treinamento/28-projeto-final.md) |
+| 29 | Desafio Final | [29-desafio-final.md](/treinamento/29-desafio-final.md) |
 
 ## Aplicação usada nos exemplos
 
