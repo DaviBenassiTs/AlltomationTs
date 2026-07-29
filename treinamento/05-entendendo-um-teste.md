@@ -1,4 +1,4 @@
-← [Anterior](04-estrutura-projeto.md) | [Índice](00-indice.md) | [Próximo: Localizadores →](06-localizadores.md)
+← [Anterior](04-estrutura-projeto.md) | [Índice](../README.md) | [Próximo: Localizadores →](06-localizadores.md)
 
 # Capítulo 5 — Entendendo um Teste
 
@@ -108,4 +108,4 @@ Reescreva o exemplo prático deste capítulo trocando `page.getByPlaceholder(...
 site). Rode os dois e compare a legibilidade — isso prepara o terreno para o Capítulo 6.
 
 ---
-← [Anterior](04-estrutura-projeto.md) | [Índice](00-indice.md) | [Próximo: Localizadores →](06-localizadores.md)
+← [Anterior](04-estrutura-projeto.md) | [Índice](../README.md) | [Próximo: Localizadores →](06-localizadores.md)

@@ -1,4 +1,4 @@
-← [Anterior](01-introducao.md) | [Índice](00-indice.md) | [Próximo: Instalação →](03-instalacao.md)
+← [Anterior](01-introducao.md) | [Índice](../README.md) | [Próximo: Instalação →](03-instalacao.md)
 
 # Capítulo 2 — Conhecendo o Playwright
 
@@ -125,4 +125,4 @@ Force um teste a falhar de propósito (ex.: mude um `getByText` para um texto qu
 identifique exatamente em qual ação o teste travou.
 
 ---
-← [Anterior](01-introducao.md) | [Índice](00-indice.md) | [Próximo: Instalação →](03-instalacao.md)
+← [Anterior](01-introducao.md) | [Índice](../README.md) | [Próximo: Instalação →](03-instalacao.md)

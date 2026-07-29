@@ -1,4 +1,4 @@
-← [Anterior](10-organizacao-framework.md) | [Índice](00-indice.md) | [Próximo: Hooks →](12-hooks.md)
+← [Anterior](10-organizacao-framework.md) | [Índice](../README.md) | [Próximo: Hooks →](12-hooks.md)
 
 # Capítulo 11 — Fixtures
 
@@ -155,4 +155,4 @@ chamadas HTTP, ver Capítulo 16) para autenticar contra uma API fictícia e devo
 requisição já com o token de autenticação configurado nos headers.
 
 ---
-← [Anterior](10-organizacao-framework.md) | [Índice](00-indice.md) | [Próximo: Hooks →](12-hooks.md)
+← [Anterior](10-organizacao-framework.md) | [Índice](../README.md) | [Próximo: Hooks →](12-hooks.md)

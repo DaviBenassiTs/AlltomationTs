@@ -1,4 +1,4 @@
-← [Anterior](15-esperas.md) | [Índice](00-indice.md) | [Próximo: Massa de Dados →](17-massa-de-dados.md)
+← [Anterior](15-esperas.md) | [Índice](../README.md) | [Próximo: Massa de Dados →](17-massa-de-dados.md)
 
 # Capítulo 16 — Trabalhando com APIs
 
@@ -135,4 +135,4 @@ via `request.post` antes do teste e o remove via `request.delete` depois — usa
 "código antes do `use()`, código depois do `use()`" para setup e teardown automáticos.
 
 ---
-← [Anterior](15-esperas.md) | [Índice](00-indice.md) | [Próximo: Massa de Dados →](17-massa-de-dados.md)
+← [Anterior](15-esperas.md) | [Índice](../README.md) | [Próximo: Massa de Dados →](17-massa-de-dados.md)

@@ -1,4 +1,4 @@
-← [Anterior](11-fixtures.md) | [Índice](00-indice.md) | [Próximo: Captura de Evidências →](13-evidencias.md)
+← [Anterior](11-fixtures.md) | [Índice](../README.md) | [Próximo: Captura de Evidências →](13-evidencias.md)
 
 # Capítulo 12 — Hooks
 
@@ -113,4 +113,4 @@ chamada `homePage`, entregando ao teste a página já carregada — compare a le
 abordagens.
 
 ---
-← [Anterior](11-fixtures.md) | [Índice](00-indice.md) | [Próximo: Captura de Evidências →](13-evidencias.md)
+← [Anterior](11-fixtures.md) | [Índice](../README.md) | [Próximo: Captura de Evidências →](13-evidencias.md)

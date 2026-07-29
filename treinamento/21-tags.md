@@ -1,4 +1,4 @@
-← [Anterior](20-paralelismo.md) | [Índice](00-indice.md) | [Próximo: Testes de Regressão →](22-regressao.md)
+← [Anterior](20-paralelismo.md) | [Índice](../README.md) | [Próximo: Testes de Regressão →](22-regressao.md)
 
 # Capítulo 21 — Tags
 
@@ -113,4 +113,4 @@ Desenhe (em texto) uma estratégia de pipeline de CI com 3 estágios: `@smoke` a
 tag) uma vez por dia agendada — e explique o trade-off de tempo vs. cobertura de cada estágio.
 
 ---
-← [Anterior](20-paralelismo.md) | [Índice](00-indice.md) | [Próximo: Testes de Regressão →](22-regressao.md)
+← [Anterior](20-paralelismo.md) | [Índice](../README.md) | [Próximo: Testes de Regressão →](22-regressao.md)

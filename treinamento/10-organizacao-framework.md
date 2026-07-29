@@ -1,4 +1,4 @@
-← [Anterior](09-component-object-model.md) | [Índice](00-indice.md) | [Próximo: Fixtures →](11-fixtures.md)
+← [Anterior](09-component-object-model.md) | [Índice](../README.md) | [Próximo: Fixtures →](11-fixtures.md)
 
 # Capítulo 10 — Organização do Framework
 
@@ -106,4 +106,4 @@ aplicação (ex.: um blog dentro do mesmo site) sem que `pages/` vire uma pasta 
 soltos — pense em subpastas por domínio (`pages/checkout/`, `pages/blog/`, etc.).
 
 ---
-← [Anterior](09-component-object-model.md) | [Índice](00-indice.md) | [Próximo: Fixtures →](11-fixtures.md)
+← [Anterior](09-component-object-model.md) | [Índice](../README.md) | [Próximo: Fixtures →](11-fixtures.md)

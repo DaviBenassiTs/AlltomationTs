@@ -1,4 +1,4 @@
-← [Anterior](27-exercicio-pratico.md) | [Índice](00-indice.md) | [Próximo: Desafio Final →](29-desafio-final.md)
+← [Anterior](27-exercicio-pratico.md) | [Índice](../README.md) | [Próximo: Desafio Final →](29-desafio-final.md)
 
 # Capítulo 28 — Projeto Final
 
@@ -193,4 +193,4 @@ a confirmação de um pedido novo) se encaixaria: que Page(s) ele exigiria, que 
 entregaria isso pronto ao teste.
 
 ---
-← [Anterior](27-exercicio-pratico.md) | [Índice](00-indice.md) | [Próximo: Desafio Final →](29-desafio-final.md)
+← [Anterior](27-exercicio-pratico.md) | [Índice](../README.md) | [Próximo: Desafio Final →](29-desafio-final.md)

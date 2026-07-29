@@ -1,4 +1,4 @@
-← [Anterior](02-conhecendo-playwright.md) | [Índice](00-indice.md) | [Próximo: Estrutura de Projeto →](04-estrutura-projeto.md)
+← [Anterior](02-conhecendo-playwright.md) | [Índice](../README.md) | [Próximo: Estrutura de Projeto →](04-estrutura-projeto.md)
 
 # Capítulo 3 — Instalação
 
@@ -133,4 +133,4 @@ um container Docker `node:20`) e documente quais bibliotecas de sistema operacio
 precisa para rodar os navegadores headless.
 
 ---
-← [Anterior](02-conhecendo-playwright.md) | [Índice](00-indice.md) | [Próximo: Estrutura de Projeto →](04-estrutura-projeto.md)
+← [Anterior](02-conhecendo-playwright.md) | [Índice](../README.md) | [Próximo: Estrutura de Projeto →](04-estrutura-projeto.md)

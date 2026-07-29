@@ -1,4 +1,4 @@
-← [Anterior](26-erros-comuns.md) | [Índice](00-indice.md) | [Próximo: Projeto Final →](28-projeto-final.md)
+← [Anterior](26-erros-comuns.md) | [Índice](../README.md) | [Próximo: Projeto Final →](28-projeto-final.md)
 
 # Capítulo 27 — Exercício Prático (Login)
 
@@ -169,4 +169,4 @@ Adicione um teste `login com senha incorreta mantém o usuário na tela de login
 `UserCredentials` com senha inválida, e valide a mensagem de erro apropriada usando `errorToast`.
 
 ---
-← [Anterior](26-erros-comuns.md) | [Índice](00-indice.md) | [Próximo: Projeto Final →](28-projeto-final.md)
+← [Anterior](26-erros-comuns.md) | [Índice](../README.md) | [Próximo: Projeto Final →](28-projeto-final.md)

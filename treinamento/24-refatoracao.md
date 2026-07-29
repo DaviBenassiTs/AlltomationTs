@@ -1,4 +1,4 @@
-← [Anterior](23-cicd.md) | [Índice](00-indice.md) | [Próximo: Boas Práticas →](25-boas-praticas.md)
+← [Anterior](23-cicd.md) | [Índice](../README.md) | [Próximo: Boas Práticas →](25-boas-praticas.md)
 
 # Capítulo 24 — Refatoração
 
@@ -143,4 +143,4 @@ de estudo, e aplique o mesmo processo de refatoração deste capítulo, document
 foi feito aqui.
 
 ---
-← [Anterior](23-cicd.md) | [Índice](00-indice.md) | [Próximo: Boas Práticas →](25-boas-praticas.md)
+← [Anterior](23-cicd.md) | [Índice](../README.md) | [Próximo: Boas Práticas →](25-boas-praticas.md)

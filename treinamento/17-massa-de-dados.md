@@ -1,4 +1,4 @@
-← [Anterior](16-apis.md) | [Índice](00-indice.md) | [Próximo: Variáveis de Ambiente →](18-variaveis-ambiente.md)
+← [Anterior](16-apis.md) | [Índice](../README.md) | [Próximo: Variáveis de Ambiente →](18-variaveis-ambiente.md)
 
 # Capítulo 17 — Massa de Dados
 
@@ -125,4 +125,4 @@ CEP aleatórios a cada chamada, para ser usada em testes de checkout que não de
 fixo.
 
 ---
-← [Anterior](16-apis.md) | [Índice](00-indice.md) | [Próximo: Variáveis de Ambiente →](18-variaveis-ambiente.md)
+← [Anterior](16-apis.md) | [Índice](../README.md) | [Próximo: Variáveis de Ambiente →](18-variaveis-ambiente.md)

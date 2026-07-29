@@ -1,4 +1,4 @@
-← [Anterior](07-assertions.md) | [Índice](00-indice.md) | [Próximo: Component Object Model →](09-component-object-model.md)
+← [Anterior](07-assertions.md) | [Índice](../README.md) | [Próximo: Component Object Model →](09-component-object-model.md)
 
 # Capítulo 8 — Page Object Model (POM)
 
@@ -154,4 +154,4 @@ Refatore [`pages/products.page.ts`](../pages/products.page.ts) para expor um mé
 reaproveitando `addProductToCart` já existente (sem duplicar lógica).
 
 ---
-← [Anterior](07-assertions.md) | [Índice](00-indice.md) | [Próximo: Component Object Model →](09-component-object-model.md)
+← [Anterior](07-assertions.md) | [Índice](../README.md) | [Próximo: Component Object Model →](09-component-object-model.md)

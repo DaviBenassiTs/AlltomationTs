@@ -1,4 +1,4 @@
-← [Anterior](05-entendendo-um-teste.md) | [Índice](00-indice.md) | [Próximo: Assertions →](07-assertions.md)
+← [Anterior](05-entendendo-um-teste.md) | [Índice](../README.md) | [Próximo: Assertions →](07-assertions.md)
 
 # Capítulo 6 — Localizadores
 
@@ -139,4 +139,4 @@ inventário, quais localizadores (dos citados neste capítulo) você conseguiria
 "Add to cart" de cada um, sem usar `.nth()`.
 
 ---
-← [Anterior](05-entendendo-um-teste.md) | [Índice](00-indice.md) | [Próximo: Assertions →](07-assertions.md)
+← [Anterior](05-entendendo-um-teste.md) | [Índice](../README.md) | [Próximo: Assertions →](07-assertions.md)

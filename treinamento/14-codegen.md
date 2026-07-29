@@ -1,4 +1,4 @@
-← [Anterior](13-evidencias.md) | [Índice](00-indice.md) | [Próximo: Esperas (Waits) →](15-esperas.md)
+← [Anterior](13-evidencias.md) | [Índice](../README.md) | [Próximo: Esperas (Waits) →](15-esperas.md)
 
 # Capítulo 14 — Playwright Codegen
 
@@ -111,4 +111,4 @@ refatore o resultado inteiro para POM, comparando seu resultado com
 [`tests/checkout.spec.ts`](../tests/checkout.spec.ts).
 
 ---
-← [Anterior](13-evidencias.md) | [Índice](00-indice.md) | [Próximo: Esperas (Waits) →](15-esperas.md)
+← [Anterior](13-evidencias.md) | [Índice](../README.md) | [Próximo: Esperas (Waits) →](15-esperas.md)

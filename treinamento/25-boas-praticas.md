@@ -1,4 +1,4 @@
-← [Anterior](24-refatoracao.md) | [Índice](00-indice.md) | [Próximo: Erros Mais Comuns →](26-erros-comuns.md)
+← [Anterior](24-refatoracao.md) | [Índice](../README.md) | [Próximo: Erros Mais Comuns →](26-erros-comuns.md)
 
 # Capítulo 25 — Boas Práticas
 
@@ -96,4 +96,4 @@ combinando os itens deste capítulo com critérios de cobertura (ex.: "tem ao me
 "roda em menos de X segundos", "não depende de outro teste").
 
 ---
-← [Anterior](24-refatoracao.md) | [Índice](00-indice.md) | [Próximo: Erros Mais Comuns →](26-erros-comuns.md)
+← [Anterior](24-refatoracao.md) | [Índice](../README.md) | [Próximo: Erros Mais Comuns →](26-erros-comuns.md)

@@ -1,4 +1,4 @@
-← [Índice](00-indice.md) | [Próximo: Conhecendo o Playwright →](02-conhecendo-playwright.md)
+← [Índice](../README.md) | [Próximo: Conhecendo o Playwright →](02-conhecendo-playwright.md)
 
 # Capítulo 1 — Introdução ao QA e à Automação
 
@@ -160,4 +160,4 @@ Selenium (WebDriver via HTTP). Escreva um parágrafo explicando por que isso imp
 confiabilidade dos testes.
 
 ---
-← [Índice](00-indice.md) | [Próximo: Conhecendo o Playwright →](02-conhecendo-playwright.md)
+← [Índice](../README.md) | [Próximo: Conhecendo o Playwright →](02-conhecendo-playwright.md)

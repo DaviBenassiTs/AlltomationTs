@@ -1,4 +1,4 @@
-← [Anterior](17-massa-de-dados.md) | [Índice](00-indice.md) | [Próximo: Configuração do Playwright →](19-configuracao.md)
+← [Anterior](17-massa-de-dados.md) | [Índice](../README.md) | [Próximo: Configuração do Playwright →](19-configuracao.md)
 
 # Capítulo 18 — Variáveis de Ambiente
 
@@ -122,4 +122,4 @@ qual arquivo carregar via uma variável `ENV=staging`, documentando a mudança n
 `playwright.config.ts`.
 
 ---
-← [Anterior](17-massa-de-dados.md) | [Índice](00-indice.md) | [Próximo: Configuração do Playwright →](19-configuracao.md)
+← [Anterior](17-massa-de-dados.md) | [Índice](../README.md) | [Próximo: Configuração do Playwright →](19-configuracao.md)

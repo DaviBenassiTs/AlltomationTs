@@ -5,7 +5,7 @@
 > Rode `npm install && npx playwright install && npm test` na raiz do projeto para ver tudo funcionando
 > contra o [saucedemo.com](https://www.saucedemo.com), aplicação pública mantida para prática de automação.
 
-Projeto real, executavel, que acompanha o treinamento em [`treinamento/`](treinamento/00-indice.md).
+Projeto real, executavel, que acompanha o treinamento em [`treinamento/`](treinamento/).
 A aplicacao sob teste (UI) e a [saucedemo.com](https://www.saucedemo.com), um site publico mantido
 pela Sauce Labs especificamente para pratica de automacao de testes. Os testes de API
 (`tests/api.spec.ts`) usam a [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com),

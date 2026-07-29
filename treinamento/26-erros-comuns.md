@@ -1,4 +1,4 @@
-← [Anterior](25-boas-praticas.md) | [Índice](00-indice.md) | [Próximo: Exercício Prático →](27-exercicio-pratico.md)
+← [Anterior](25-boas-praticas.md) | [Índice](../README.md) | [Próximo: Exercício Prático →](27-exercicio-pratico.md)
 
 # Capítulo 26 — Erros Mais Comuns
 
@@ -112,4 +112,4 @@ testes — mesmo que não estejam explicitamente cobertos nos capítulos deste t
 como evitá-los.
 
 ---
-← [Anterior](25-boas-praticas.md) | [Índice](00-indice.md) | [Próximo: Exercício Prático →](27-exercicio-pratico.md)
+← [Anterior](25-boas-praticas.md) | [Índice](../README.md) | [Próximo: Exercício Prático →](27-exercicio-pratico.md)

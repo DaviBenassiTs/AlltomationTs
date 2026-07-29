@@ -1,4 +1,4 @@
-← [Anterior](19-configuracao.md) | [Índice](00-indice.md) | [Próximo: Tags →](21-tags.md)
+← [Anterior](19-configuracao.md) | [Índice](../README.md) | [Próximo: Tags →](21-tags.md)
 
 # Capítulo 20 — Paralelismo
 
@@ -101,4 +101,4 @@ simulada), poderiam gerar uma condição de corrida (race condition) — e propo
 cada teste cria seu próprio recurso, em vez de compartilhar um registro fixo).
 
 ---
-← [Anterior](19-configuracao.md) | [Índice](00-indice.md) | [Próximo: Tags →](21-tags.md)
+← [Anterior](19-configuracao.md) | [Índice](../README.md) | [Próximo: Tags →](21-tags.md)

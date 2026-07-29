@@ -1,4 +1,4 @@
-← [Anterior](18-variaveis-ambiente.md) | [Índice](00-indice.md) | [Próximo: Paralelismo →](20-paralelismo.md)
+← [Anterior](18-variaveis-ambiente.md) | [Índice](../README.md) | [Próximo: Paralelismo →](20-paralelismo.md)
 
 # Capítulo 19 — Configuração do Playwright
 
@@ -133,4 +133,4 @@ WebKit costuma ser mais lento em certas operações), sobrescrevendo o valor pad
 navegador, sem alterar o timeout dos demais.
 
 ---
-← [Anterior](18-variaveis-ambiente.md) | [Índice](00-indice.md) | [Próximo: Paralelismo →](20-paralelismo.md)
+← [Anterior](18-variaveis-ambiente.md) | [Índice](../README.md) | [Próximo: Paralelismo →](20-paralelismo.md)

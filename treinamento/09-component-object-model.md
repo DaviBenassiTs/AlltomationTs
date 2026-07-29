@@ -1,4 +1,4 @@
-← [Anterior](08-page-object-model.md) | [Índice](00-indice.md) | [Próximo: Organização do Framework →](10-organizacao-framework.md)
+← [Anterior](08-page-object-model.md) | [Índice](../README.md) | [Próximo: Organização do Framework →](10-organizacao-framework.md)
 
 # Capítulo 9 — Component Object Model
 
@@ -155,4 +155,4 @@ modal da aplicação, com métodos `confirm()`, `cancel()` e `getTitle()`. Pense
 os locators do modal específico sem precisar de uma classe nova para cada modal da aplicação.
 
 ---
-← [Anterior](08-page-object-model.md) | [Índice](00-indice.md) | [Próximo: Organização do Framework →](10-organizacao-framework.md)
+← [Anterior](08-page-object-model.md) | [Índice](../README.md) | [Próximo: Organização do Framework →](10-organizacao-framework.md)

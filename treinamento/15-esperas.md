@@ -1,4 +1,4 @@
-← [Anterior](14-codegen.md) | [Índice](00-indice.md) | [Próximo: Trabalhando com APIs →](16-apis.md)
+← [Anterior](14-codegen.md) | [Índice](../README.md) | [Próximo: Trabalhando com APIs →](16-apis.md)
 
 # Capítulo 15 — Esperas (Waits)
 
@@ -135,4 +135,4 @@ saucedemo.com — ou explique por que essa aplicação, sendo majoritariamente e
 raramente exigiria esse tipo de espera.
 
 ---
-← [Anterior](14-codegen.md) | [Índice](00-indice.md) | [Próximo: Trabalhando com APIs →](16-apis.md)
+← [Anterior](14-codegen.md) | [Índice](../README.md) | [Próximo: Trabalhando com APIs →](16-apis.md)

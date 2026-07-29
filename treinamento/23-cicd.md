@@ -1,4 +1,4 @@
-← [Anterior](22-regressao.md) | [Índice](00-indice.md) | [Próximo: Refatoração →](24-refatoracao.md)
+← [Anterior](22-regressao.md) | [Índice](../README.md) | [Próximo: Refatoração →](24-refatoracao.md)
 
 # Capítulo 23 — Integração Contínua (CI/CD)
 
@@ -158,4 +158,4 @@ Configure o job `regression` para rodar em uma matriz (`strategy.matrix`) dos tr
 rodando os três projetos em sequência.
 
 ---
-← [Anterior](22-regressao.md) | [Índice](00-indice.md) | [Próximo: Refatoração →](24-refatoracao.md)
+← [Anterior](22-regressao.md) | [Índice](../README.md) | [Próximo: Refatoração →](24-refatoracao.md)

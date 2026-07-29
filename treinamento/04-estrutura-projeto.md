@@ -1,4 +1,4 @@
-← [Anterior](03-instalacao.md) | [Índice](00-indice.md) | [Próximo: Entendendo um Teste →](05-entendendo-um-teste.md)
+← [Anterior](03-instalacao.md) | [Índice](../README.md) | [Próximo: Entendendo um Teste →](05-entendendo-um-teste.md)
 
 # Capítulo 4 — Estrutura de um Projeto Profissional
 
@@ -114,4 +114,4 @@ tanto uma aplicação web quanto uma API REST da mesma empresa, compartilhando m
 dois.
 
 ---
-← [Anterior](03-instalacao.md) | [Índice](00-indice.md) | [Próximo: Entendendo um Teste →](05-entendendo-um-teste.md)
+← [Anterior](03-instalacao.md) | [Índice](../README.md) | [Próximo: Entendendo um Teste →](05-entendendo-um-teste.md)

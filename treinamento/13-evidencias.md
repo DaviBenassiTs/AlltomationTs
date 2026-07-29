@@ -1,4 +1,4 @@
-← [Anterior](12-hooks.md) | [Índice](00-indice.md) | [Próximo: Playwright Codegen →](14-codegen.md)
+← [Anterior](12-hooks.md) | [Índice](../README.md) | [Próximo: Playwright Codegen →](14-codegen.md)
 
 # Capítulo 13 — Captura de Evidências
 
@@ -103,4 +103,4 @@ Configure `trace: 'on-first-retry'` em vez de `'retain-on-failure'` e explique, 
 de comportamento e por que essa opção é uma boa escolha para ambientes de CI com `retries` habilitado.
 
 ---
-← [Anterior](12-hooks.md) | [Índice](00-indice.md) | [Próximo: Playwright Codegen →](14-codegen.md)
+← [Anterior](12-hooks.md) | [Índice](../README.md) | [Próximo: Playwright Codegen →](14-codegen.md)

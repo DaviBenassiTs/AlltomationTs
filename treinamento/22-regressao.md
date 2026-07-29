@@ -1,4 +1,4 @@
-← [Anterior](21-tags.md) | [Índice](00-indice.md) | [Próximo: Integração Contínua (CI/CD) →](23-cicd.md)
+← [Anterior](21-tags.md) | [Índice](../README.md) | [Próximo: Integração Contínua (CI/CD) →](23-cicd.md)
 
 # Capítulo 22 — Testes de Regressão
 
@@ -93,4 +93,4 @@ Proponha um critério objetivo (ex.: uma tabela de pontuação) para decidir se 
 impacto financeiro de uma falha, e histórico de bugs anteriores naquela área.
 
 ---
-← [Anterior](21-tags.md) | [Índice](00-indice.md) | [Próximo: Integração Contínua (CI/CD) →](23-cicd.md)
+← [Anterior](21-tags.md) | [Índice](../README.md) | [Próximo: Integração Contínua (CI/CD) →](23-cicd.md)

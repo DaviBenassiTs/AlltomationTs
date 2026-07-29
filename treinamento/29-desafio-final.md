@@ -1,4 +1,4 @@
-← [Anterior](28-projeto-final.md) | [Índice](00-indice.md) | [Índice](00-indice.md)
+← [Anterior](28-projeto-final.md) | [Índice](../README.md)
 
 # Capítulo 29 — Desafio Final
 
@@ -92,4 +92,4 @@ suíte de exemplo) e explique em que ponto (quantidade de testes) o sharding com
 custo de coordenação entre shards.
 
 ---
-Você concluiu o treinamento. Volte ao [Índice](00-indice.md) para revisar qualquer capítulo.
+Você concluiu o treinamento. Volte ao [Índice](../README.md) para revisar qualquer capítulo.

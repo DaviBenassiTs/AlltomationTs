@@ -1,4 +1,4 @@
-← [Anterior](06-localizadores.md) | [Índice](00-indice.md) | [Próximo: Page Object Model →](08-page-object-model.md)
+← [Anterior](06-localizadores.md) | [Índice](../README.md) | [Próximo: Page Object Model →](08-page-object-model.md)
 
 # Capítulo 7 — Assertions
 
@@ -109,4 +109,4 @@ Pesquise a assertion `toHaveScreenshot()` do Playwright (comparação visual) e 
 riscos de usá-la como principal estratégia de verificação em uma suíte de regressão.
 
 ---
-← [Anterior](06-localizadores.md) | [Índice](00-indice.md) | [Próximo: Page Object Model →](08-page-object-model.md)
+← [Anterior](06-localizadores.md) | [Índice](../README.md) | [Próximo: Page Object Model →](08-page-object-model.md)
